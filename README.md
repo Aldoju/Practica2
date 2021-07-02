@@ -1,2 +1,4 @@
 # Practica2
-practica 
+codigos anlkasf 
+omaosfafa
+print("Hola mundo")
